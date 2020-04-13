@@ -6,7 +6,7 @@ $ pkg install python python2
 $ pip2 install requests mechanize bs4
 $ pip install requests mechanize bs4
 $ git clone https://github.com/cyber-Force77/Bruteforce-Facebook
-$ cd Bruteforce-Faceboo
+$ cd Bruteforce-Facebook
 $ python2 Brutetarget.py
 $ python3 Bruteid.py
 ```
