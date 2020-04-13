@@ -5,7 +5,7 @@ Bruteforce Facebook Version 1.0
 $ pkg install python python2
 $ pip2 install requests mechanize bs4
 $ pip install requests mechanize bs4
-$ git clone https://github.com/cyber-Force77/Bruteforce-Faceboo
+$ git clone https://github.com/cyber-Force77/Bruteforce-Facebook
 $ cd Bruteforce-Faceboo
 $ python2 Brutetarget.
 $ python3 Bruteid.py
